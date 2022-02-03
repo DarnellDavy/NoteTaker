@@ -16,9 +16,6 @@ https://github.com/DarnellDavy/NoteTaker
 ### HTML, CSS, Javascript
 --------------------
 
-## HEROKU
-https://note-taker-jw21.herokuapp.com/
-
 ## Table of Contents:
 
 
